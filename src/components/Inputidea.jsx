@@ -67,7 +67,7 @@ const InputIdea = () => {
 
   return (
     <div className="flex flex-col items-center justify-start mt-4 h-screen">
-      <h1 className="font-mono text-3xl mb-4">Product Idea</h1>
+      <h1 className="font-mono text-3xl mb-4">Product Finder</h1>
       <form onSubmit={handleSubmit} className="w-full relative">
         <input
           type="text"
